@@ -73,3 +73,5 @@ The university hosts various events, exhibitions, and performances throughout th
 The campus is home to a diverse student body from around the world, promoting a rich cultural exchange and a sense of community.
 * Transport Links
 Well-connected by public transport, with easy access to the city center and beyond, making it convenient for students to explore Manchester.
+
+ <img src="./images/uni.jpg" alt="">
